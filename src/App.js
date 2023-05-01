@@ -52,7 +52,7 @@ function App() {
   return (
     <div className="App">
       <header>
-        <h1>Product Listing Page</h1>
+        <h1>Products Page</h1>
         <div className="filters">
         <select id="brand-filter" value={selectedBrand} onChange={handleBrandFilter}>
   <option value="">Brand</option>
